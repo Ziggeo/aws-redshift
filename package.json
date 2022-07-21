@@ -1,5 +1,5 @@
 {
-  "name": "aws-redshift",
+  "name": "ziggeo-aws-redshift",
   "version": "1.0.1",
   "description": "A simple collection of tools to help you get started with Amazon Redshift from node.js",
   "main": "index.js",
