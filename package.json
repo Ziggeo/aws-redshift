@@ -29,12 +29,5 @@
   "bin": {
     "aws-redshift": "./bin/aws-redshift"
   },
-  "author": "Sayed Tauseef Naqvi",
-  "contributors": [
-    {
-      "name": "Sayed Tauseef Naqvi",
-      "email": "tauseef.naqvi786@gmail.com"
-    }
-  ],
   "license": "MIT"
 }
